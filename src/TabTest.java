@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
     public class TabTest {
-        public static void main(String[]
-                                        args) {
+        public static void main(String[] args) {
             int N=10;
             int[] tab = new int[N];
             readArr(tab);
